@@ -17,7 +17,7 @@ INSERT INTO books (title, year, series_id) VALUES ("All About Love", 2000, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry P", "Fake Motto 1", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Uniqua", "I'm A Giant", "Giant", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "Fake Quote 1", "Blue Fairy", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Belynda Beloved", "Me!", "Bear", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Belynda Beloved", "Me!", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Miss Piggy", "Mua Said So!", "Muppet", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Summer Peguin", "shucks, i'm a criminal", "Muppet", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Pluto", "doggy bark", "Dog", 1, 1);
