@@ -24,18 +24,18 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Plu
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("James", "He likes to ride the peach", "Giant Peach", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
-INSERT INTO character_books (character_id, book_id) VALUES (1, 5);
-INSERT INTO character_books (character_id, book_id) VALUES (1, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (2, 5);
+INSERT INTO character_books (character_id, book_id) VALUES (1, 7);
 INSERT INTO character_books (character_id, book_id) VALUES (2, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (2, 5);
-INSERT INTO character_books (character_id, book_id) VALUES (2, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 6);
 INSERT INTO character_books (character_id, book_id) VALUES (3, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (4, 5);
-INSERT INTO character_books (character_id, book_id) VALUES (5, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 1);
 INSERT INTO character_books (character_id, book_id) VALUES (5, 2);
 INSERT INTO character_books (character_id, book_id) VALUES (5, 3);
 INSERT INTO character_books (character_id, book_id) VALUES (6, 1);
-INSERT INTO character_books (character_id, book_id) VALUES (6, 2);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 5);
 INSERT INTO character_books (character_id, book_id) VALUES (6, 3);
-INSERT INTO character_books (character_id, book_id) VALUES (7, 1);
-INSERT INTO character_books (character_id, book_id) VALUES (8, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (9, 3);
