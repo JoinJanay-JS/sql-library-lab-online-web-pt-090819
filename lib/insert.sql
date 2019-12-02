@@ -21,7 +21,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gil
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Saruman", "The White Wizard", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("James", "He likes to feed", "Giant Peach", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("James", "He likes to ride the peach", "Giant Peach", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (1, 5);
