@@ -14,8 +14,8 @@ INSERT INTO books (title, year, series_id) VALUES ("Invisible Man", 1950, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Beloved", 1987, 2);
 INSERT INTO books (title, year, series_id) VALUES ("All About Love", 2000, 2);
 
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "The Boy Who Lived", "Wizard", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hagrid", "The Gentle Giant", "Giant", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry P", "Fake Motto 1", "Wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Uniqua", "I'm A Giant", "Giant", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1, 1);
