@@ -16,11 +16,11 @@ INSERT INTO books (title, year, series_id) VALUES ("All About Love", 2000, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry P", "Fake Motto 1", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Uniqua", "I'm A Giant", "Giant", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Saruman", "The White Wizard", "Wizard", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "Fake Quote 1", "Blue Fairy", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Belynda Beloved", "Me!", "Bear", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Miss Piggy", "Mua Said So!", "Muppet", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Summer Peguin", "shucks, i'm a criminal", "Muppet", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Pluto", "doggy bark", "Dog", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("James", "He likes to ride the peach", "Giant Peach", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
